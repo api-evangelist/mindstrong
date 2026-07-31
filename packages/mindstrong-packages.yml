@@ -1,0 +1,24 @@
+generated: '2026-07-20'
+method: searched
+source: https://pypi.org/project/mindstrong/
+notes: >-
+  Mindstrong Health (digital mental health, wound down operations circa 2023)
+  published no public API SDK. The only first-party package located across npm,
+  PyPI, Maven Central, NuGet, pkg.go.dev, RubyGems, Packagist and crates.io is a
+  Python research library from the company's data science team. It is a
+  statistical model-fitting package (digital biomarkers), NOT a client SDK for a
+  public API, so no `SDKs` rating pointer is emitted.
+packages:
+  - language: python
+    registry: pypi
+    name: mindstrong
+    url: https://pypi.org/project/mindstrong/
+    install: pip install mindstrong
+    official: true
+    summary: >-
+      Mindstrong Digital Biomarker Model Fitting — Supervised Kernel Principal
+      Components Analysis with cross validation to fit digital biomarkers.
+    author: Mindstrong Health Data Science
+    author_email: datascience@mindstronghealth.com
+    homepage: http://mindstronghealth.com
+    kind: research-library
