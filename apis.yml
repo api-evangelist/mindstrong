@@ -35,6 +35,9 @@ description: >-
   data science team. This profile is retained in the API Evangelist network as an
   enriched company record with no public API surface.
 url: https://raw.githubusercontent.com/api-evangelist/mindstrong/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "This profile is retained in the API Evangelist network as an enriched company record with no public API surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
